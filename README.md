@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <span>
 <a href="mailto:morellinicolas96@gmail.com">
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-#### Some of my projects:
+### Some of my projects:
 
 <span>
 <a href="https://nmorelli96.github.io/fcc-random-quote-machine/">

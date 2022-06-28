@@ -23,21 +23,21 @@
 ### Some of my projects:
 
 <span>
-<a href="https://nmorelli96.github.io/fcc-random-quote-machine/">
+<a href="https://nmorelli96.github.io/fcc-random-quote-machine/" target="_blank" rel="noopener noreferrer"> 
   <img alt="Life Quotes" width="350px" src="https://i.imgur.com/TSSDUGL.png" />
 </a>
 
-<a href="https://nmorelli96.github.io/fcc-markdown-previewer/">
+<a href="https://nmorelli96.github.io/fcc-markdown-previewer/" target="_blank" rel="noopener noreferrer">
   <img alt="Markdown Previewer" width="350px" src="https://i.imgur.com/MM7B2Jo.png" />
 </a>
 </span>
 
 <span>
-<a href="https://nmorelli96.github.io/odin-rock-papers-scissors/">
+<a href="https://nmorelli96.github.io/odin-rock-paper-scissors/" target="_blank" rel="noopener noreferrer">
   <img alt="Rock Papers Scissors" width="350px" src="https://i.imgur.com/KUpiBO2.png" />
 </a>
 
-<a href="https://nmorelli96.github.io/fcc-drum-machine/">
+<a href="https://nmorelli96.github.io/fcc-drum-machine/" target="_blank" rel="noopener noreferrer">
   <img alt="Drum Machine" width="350px" src="https://i.imgur.com/zM9xfVq.png" />
 </a>
 </span>

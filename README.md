@@ -27,8 +27,8 @@
   <img alt="Life Quotes" width="350px" src="https://i.imgur.com/TSSDUGL.png" />
 </a>
 
-<a href="https://nmorelli96.github.io/fcc-markdown-previewer/" target="_blank" rel="noopener noreferrer">
-  <img alt="Markdown Previewer" width="350px" src="https://i.imgur.com/MM7B2Jo.png" />
+<a href="https://nmorelli96.github.io/fcc-javascript-calculator/" target="_blank" rel="noopener noreferrer">
+  <img alt="ReactJS Calc" width="350px" src="https://i.imgur.com/0WDBWTU.png" />
 </a>
 </span>
 

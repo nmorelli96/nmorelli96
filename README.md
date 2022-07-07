@@ -24,21 +24,25 @@
 
 <span>
 <a href="https://nmorelli96.github.io/fcc-random-quote-machine/" target="_blank" rel="noopener noreferrer"> 
-  <img alt="Life Quotes" width="350px" src="https://i.imgur.com/TSSDUGL.png" />
+  <img alt="Life Quotes" width="332px" height="216px" src="https://i.imgur.com/TSSDUGL.png" />
 </a>
-
+<a href="https://nmorelli96.github.io/fcc-pomodoro-timer/" target="_blank" rel="noopener noreferrer">
+  <img alt="Pomodoro timer" width="332px" height="216px" src="https://i.imgur.com/AymLzRS.png" />
+</a>
 <a href="https://nmorelli96.github.io/fcc-javascript-calculator/" target="_blank" rel="noopener noreferrer">
-  <img alt="ReactJS Calc" width="350px" src="https://i.imgur.com/0WDBWTU.png" />
+  <img alt="ReactJS Calc" width="332px" height="216px" src="https://i.imgur.com/0WDBWTU.png" />
 </a>
 </span>
 
 <span>
 <a href="https://nmorelli96.github.io/odin-rock-paper-scissors/" target="_blank" rel="noopener noreferrer">
-  <img alt="Rock Papers Scissors" width="350px" src="https://i.imgur.com/KUpiBO2.png" />
+  <img alt="Rock Papers Scissors" width="332px" height="216px" src="https://i.imgur.com/KUpiBO2.png" />
 </a>
-
 <a href="https://nmorelli96.github.io/fcc-drum-machine/" target="_blank" rel="noopener noreferrer">
-  <img alt="Drum Machine" width="350px" src="https://i.imgur.com/zM9xfVq.png" />
+  <img alt="Drum Machine" width="332px" height="216px" src="https://i.imgur.com/zM9xfVq.png" />
+</a>
+<a href="https://nmorelli96.github.io/fcc-markdown-previewer/" target="_blank" rel="noopener noreferrer">
+  <img alt="Markdown Previewer" width="332px" height="216px" src="https://i.imgur.com/MM7B2Jo.png" />
 </a>
 </span>
 

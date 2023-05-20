@@ -19,8 +19,8 @@
 ### Some of my projects:
 
 <span>
-<a href="https://nmorelli96.github.io/fcc-random-quote-machine/" target="_blank" rel="noopener noreferrer"> 
-  <img alt="Life Quotes" width="400px" src="https://i.imgur.com/TSSDUGL.png" />
+  <a href="https://github.com/nmorelli96/finanzars-full" target="_blank" rel="noopener noreferrer">
+  <img alt="FinanzARS" width="400px" src="https://i.imgur.com/mQAYwSS.png" />
 </a>
 <a href="https://nmorelli96.github.io/fcc-pomodoro-timer/" target="_blank" rel="noopener noreferrer">
   <img alt="Pomodoro timer" width="400px" src="https://i.imgur.com/AymLzRS.png" />
@@ -31,8 +31,8 @@
 <a href="https://nmorelli96.github.io/fcc-javascript-calculator/" target="_blank" rel="noopener noreferrer">
   <img alt="ReactJS Calc" width="400px" src="https://i.imgur.com/0WDBWTU.png" />
 </a>
-<a href="https://nmorelli96.github.io/odin-rock-paper-scissors/" target="_blank" rel="noopener noreferrer">
-  <img alt="Rock Papers Scissors" width="400px" src="https://i.imgur.com/KUpiBO2.png" />
+<a href="https://nmorelli96.github.io/fcc-random-quote-machine/" target="_blank" rel="noopener noreferrer"> 
+  <img alt="Life Quotes" width="400px" src="https://i.imgur.com/TSSDUGL.png" />
 </a>
 </span>
 

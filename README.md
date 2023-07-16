@@ -19,7 +19,7 @@
 ### Some of my projects:
 
 <span>
-  <a href="https://finanzars.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://finanzars-dolar.onrender.com/" target="_blank" rel="noopener noreferrer">
   <img alt="FinanzARS" width="400px" src="https://i.imgur.com/mQAYwSS.png" />
 </a>
 <a href="https://nmorelli96.github.io/fcc-pomodoro-timer/" target="_blank" rel="noopener noreferrer">
